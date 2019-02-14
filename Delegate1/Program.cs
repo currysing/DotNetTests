@@ -14,6 +14,7 @@ namespace WinformTest
 		[STAThread]
 		static void Main()
 		{
+			// add some comment line by user1
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
